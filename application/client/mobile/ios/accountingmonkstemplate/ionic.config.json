@@ -1,0 +1,7 @@
+{
+  "name": "accountingmonkstemplate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
